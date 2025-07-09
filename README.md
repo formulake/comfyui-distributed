@@ -99,6 +99,7 @@ A powerful extension for ComfyUI that enables parallel and distributed processin
 - `--enable-cors-header` - **Required** if using remoter workers
 - `--lowvram` - For GPUs with less memory
 - `--highvram` - For high-end GPUs
+- `--reserve-vram 2` - Reserves 2GB of VRAM. Recommended for your primary/display GPU
 
 ---
 
